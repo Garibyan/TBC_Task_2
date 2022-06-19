@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TBC Task_2</string>
+    <string name="incorrect_input">გთხოვთ სწორად შეიყვანოთ რიცხვი</string>
+    <string name="correct_cast">რიცხვი გადაყვანილია</string>
+    <string name="edt_number_hint">შეიყვანეთ რიცხვი აქ</string>
+    <string name="tv_text">შეიყვანეთ რიცხვი 1-1000 შუალედში</string>
+    <string name="btn_text">გადაყვანა</string>
+    <string name="edt_number_error">მხოლოდ 1-1000 შუალედში</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="belong20">
+        <item>ერთი</item>
+        <item>ორი</item>
+        <item>სამი</item>
+        <item>ოთხი</item>
+        <item>ხუთი</item>
+        <item>ექვსი</item>
+        <item>შვიდი</item>
+        <item>რვა</item>
+        <item>ცხრა</item>
+        <item>ათი</item>
+        <item>თერთმეტი</item>
+        <item>თორმეტი</item>
+        <item>ცამეტი</item>
+        <item>თოთხმეტი</item>
+        <item>თხუთმეტი</item>
+        <item>თექვსმეტი</item>
+        <item>ჩვიდმეტი</item>
+        <item>თვრამეტი</item>
+        <item>ცხრამეტი</item>
+    </string-array>
+
+    <string-array name="twenties">
+        <item>ოცი</item>
+        <item>ორმოცი</item>
+        <item>სამოცი</item>
+        <item>ოთხმოცი</item>
+    </string-array>
+
+    <string-array name="hondreds">
+        <item>ასი</item>
+        <item>ორასი</item>
+        <item>სამასი</item>
+        <item>ოთხასი</item>
+        <item>ხუთასი</item>
+        <item>ექვსასი</item>
+        <item>შვიდასი</item>
+        <item>რვაასი</item>
+        <item>ცხრაასი</item>
+        <item>ატასი</item>
+    </string-array>
+
+</resources>
