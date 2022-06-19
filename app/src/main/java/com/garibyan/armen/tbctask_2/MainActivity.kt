@@ -71,7 +71,6 @@ class MainActivity : AppCompatActivity() {
         val devideByTwenty = number / 20
         val moduleByTwenty = number % 20
 
-
         if (number < 20) {
             answer = listBelong20.get(number - 1)!!
         } else if (moduleByTwenty == 0) {
